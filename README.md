@@ -5,9 +5,10 @@
 
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alissonlima086&count_private=true&theme=dracula&show_icons=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonlima086&layout=compact&theme=dracula&langs_count=10">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonlima086)](https://github.com/alissonlima086/github-readme-stats)
 </div>
+
+
 
 
 ##
