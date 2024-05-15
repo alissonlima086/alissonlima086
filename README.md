@@ -5,7 +5,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonlima086)](https://github.com/alissonlima086/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonlima086)](https://github.com/alissonlima086/github-readme-stats&theme=dracula)
 
 
 
