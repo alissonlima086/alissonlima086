@@ -1,7 +1,7 @@
 ### Hello There
 
 - Alisson de Oliveira Lima
-- Estudante de Sistemas de Informação
+- Back-end Developer
 
 <a href="https://github.com/alissonlima086/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonlima086&theme=transparent" />
