@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Alisson de Oliveira Lima<br>- Java Back end developer<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">- Alisson de Oliveira Lima<br>- Java Back end developer</p>
 
 ###
 
