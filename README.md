@@ -6,4 +6,4 @@ Sou estudante de Sistemas de Informação e tenho experiência com desenvolvimen
 
 Gosto de desenvolver ferramentas próprias, experimentar diferentes abordagens e entender como as tecnologias funcionam na prática. Meus projetos vão desde serviços web até aplicações desktop, passando por automação e administração de ambientes Linux.
 
-**Portfólio:** [alissonlima.dev](https://alissonlima.dev)
+**Portfólio:** <a href="https://alissonlima.dev" target="_blank" rel="noopener noreferrer">alissonlima.dev</a>
